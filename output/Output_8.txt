@@ -1,0 +1,7 @@
+--------------------------------------------------------------
+*** Q3 ***
+book_name	category	first_publish_year
+4.50 from Paddington	Dilbilimi/Etimoloji	2018
+Hercule'un On Iki Gorevi	Dunya Oyku	2009
+Koskteki Esrar	Roman	2004
+--------------------------------------------------------------
